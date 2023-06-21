@@ -1,1 +1,1 @@
-jaja vou morrer
+git é um versionamento de código e GitHub é uma plataforma para voce hospedar seus códigos dde projetos e compratilhar com outros devs.
